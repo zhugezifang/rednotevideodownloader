@@ -19,7 +19,7 @@ Features: This tool allows users to download images and videos from Xiaohongshu 
 <img width="1697" alt="image" src="https://github.com/user-attachments/assets/c7703297-145f-43bd-9790-4b80194fd706" />
 
 ## 3. Xiaohongshu Watermark Removal Tool - Free Download of Watermark-Free Videos and Images  
-Website: https://rednotevideodownload.org/zh  
+Website: https://rednotevideodownload.org
 
 <img width="2866" height="1646" alt="image" src="https://github.com/user-attachments/assets/7396edf6-2c61-4c59-a98d-c1627c28bb07" />
 
