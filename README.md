@@ -7,7 +7,7 @@ Features: Free
 <img width="2582" height="1216" alt="image" src="https://github.com/user-attachments/assets/9d8f575d-ce12-4eb0-9d77-2b43f8254adf" />
 
 ## 1. RedNote (Xiaohongshu) Video Downloader Without Watermark  
-Website: https://rednote-downloader.online/  
+Website: https://www.rednote-downloader.com/  
 Features: Free  
 
 ![image](https://github.com/user-attachments/assets/f181d22a-56bc-4e72-a654-7ee22bc99d60)
@@ -30,7 +30,7 @@ Features: Download watermark-free videos and images from over 130 platforms.
 <img width="1322" alt="image" src="https://github.com/user-attachments/assets/51a3e870-05f0-48bd-9e0f-0e505f43b3a4" />
 
 ## 5. RedNote Video Downloader - Download Videos Without Watermarks  
-Website: https://www.rednote-downloader.com/zh  
+Website:  https://rednote-downloader.online/
 Features: RedNote Downloader is a free online tool that helps you download RedNote (also known as Xiaohongshu) videos and images in their original quality. Save your favorite RedNote content directly to your device in MP4 format for videos and high-resolution images. No watermarks, no loss of quality, and no need to install any apps.  
 
 <img width="1163" alt="image" src="https://github.com/user-attachments/assets/355626c2-3898-426f-86c3-356b0c75f214" />
