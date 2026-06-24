@@ -6,9 +6,9 @@ Xiaohongshu (Rednote) has become one of the most popular social e-commerce platf
 
 | Tool Name | Website | Video Download | Image Download | Batch Download | Multi-platform |
 |-----------|---------|----------------|----------------|----------------|----------------|
-| Rednote Video Downloader | [rednotevideodownload.org](https://rednotevideodownload.org) | ✅ | ✅ | ✅ | ❌ |
+| Rednote Video Downloader | [rednote-downloader.online](https://rednote-downloader.online/) | ✅ | ✅ | ✅ | ❌ |
 | XHS Download | [xhs-download.org](https://www.xhs-download.org/) | ✅ | ✅ | ❌ | ❌ |
-| RedNote Downloader | [rednote-downloader.online](https://rednote-downloader.online/) | ✅ | ✅ | ✅ | ❌ |
+| RedNote Downloader | [rednotevideodownload.org](https://rednotevideodownload.org/) | ✅ | ✅ | ✅ | ❌ |
 | XHS Download Online | [xhs-download.online](https://www.xhs-download.online/) | ✅ | ✅ | ❌ | ❌ |
 | Kutool | [kukutool.com](https://dy.kukutool.com/) | ✅ | ✅ | ✅ | ✅ (130+ platforms) |
 | Xiaohongshua | [xiaohongshua.com](https://www.xiaohongshua.com/) | ✅ | ✅ | ❌ | ❌ |
